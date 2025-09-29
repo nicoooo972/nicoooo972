@@ -127,19 +127,6 @@ impl Developer {
 
 </div>
 
-### 🏅 Achievements & Highlights
-
-<div align="center">
-
-| 🎯 Metric | 📈 Value | 🔥 Goal 2025 |
-|-----------|----------|--------------|
-| **🦀 Rust Projects** | `Active` | `5+ repositories` |
-| **⭐ Total Stars** | `Growing` | `100+ stars` |
-| **🔗 Contributions** | `Regular` | `10+ contributions` |
-| **📚 Learning Streak** | `Daily` | `365 days` |
-
-</div>
-
 ---
 
 ## 🎯 Feuille de Route 2025
@@ -152,13 +139,7 @@ mindmap
     🦀 Rust Mastery
       🔥 Async Programming
       🌐 WebAssembly (WASM)
-      🎮 Game Engine Development
       ⚡ Performance Optimization
-    🎮 Elemento Evolution
-      🗺️ Système de cartes
-      ⚔️ Combat multijoueur
-      🎨 Interface graphique
-      📱 Version mobile
     🌐 Full-Stack Innovation
       🔱 SvelteKit mastery
       🏗️ Architecture moderne
@@ -170,8 +151,6 @@ mindmap
       📚 Partage de connaissances
       🤝 Mentoring & Teaching
 ```
-
-**🏆 Challenge Personnel :** Sortir Elemento en version Beta et contribuer à 5 projets open-source majeurs !
 
 </div>
 
