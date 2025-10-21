@@ -36,10 +36,10 @@ impl Developer {
 }
 ```
 
-- 🔭 **Actuellement** : Développeur chez [**Maarch**](https://maarch.com/maarch-courrier/) 
-- 🌱 **En apprentissage** (car on arrête jamais d'apprendre) : ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white) & ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
+- 🔭 **Actuellement** : Développeur Back-end Junior chez [**Maarch**](https://maarch.com/maarch-courrier/) 
+- 🌱 **En apprentissage** (car on arrête jamais d'apprendre) : ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
 - 💬 **Me contacter** : [nicolas.lebozec73@gmail.com](mailto:nicolas.lebozec73@gmail.com)
-- 🎯 **Objectif 2025** : Maîtriser Rust et contribuer à l'open-source
+- 🎯 **Objectif 2025** : Maîtriser Rust
 - ⚡ **Fun fact** : Je collectionne les pokémons et je manie l'épée ! ⚔️
 
 ---
