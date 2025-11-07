@@ -129,33 +129,6 @@ impl Developer {
 
 ---
 
-## 🎯 Feuille de Route 2025
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((🚀 Objectifs 2025))
-    🦀 Rust Mastery
-      🔥 Async Programming
-      🌐 WebAssembly (WASM)
-      ⚡ Performance Optimization
-    🌐 Full-Stack Innovation
-      🔱 SvelteKit mastery
-      🏗️ Architecture moderne
-      🔐 Sécurité avancée
-      📊 Analytics & Performance
-    🌱 Impact & Community
-      💡 Open Source contributions
-      🌍 Tech for Good projects
-      📚 Partage de connaissances
-      🤝 Mentoring & Teaching
-```
-
-</div>
-
----
-
 ## 🎮 Centre d'Intérêts
 
 <table align="center">
