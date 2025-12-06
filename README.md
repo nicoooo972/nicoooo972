@@ -39,9 +39,7 @@ impl Developer {
 - 🔭 **Actuellement** : Développeur Back-end Junior chez [**Maarch**](https://maarch.com/maarch-courrier/) 
 - 🌱 **En apprentissage** (car on arrête jamais d'apprendre) : ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
 - 💬 **Me contacter** : [nicolas.lebozec73@gmail.com](mailto:nicolas.lebozec73@gmail.com)
-- 🎯 **Objectif 2025** : Maîtriser Rust
-- ⚡ **Fun fact** : Je collectionne les pokémons et je manie l'épée ! ⚔️
-
+- 🎯 **Objectif 2026** : Participer à des projets open source Rust & PHP
 ---
 
 ## 🛠️ Stack Technique
@@ -86,19 +84,8 @@ impl Developer {
 |---------------|------------|-----------------|-----------|
 | **[Maarch](https://maarch.com/maarch-courrier/)** | Système de GED | Solutions de gestion documentaire enterprise | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![Symfony](https://img.shields.io/badge/Symfony-000?style=flat&logo=symfony) |
 
-### 🔬 **Projets d'Apprentissage & R&D**
-
-<table>
-<tr>
-<td width="50%">
-
-**🦀 Rust Projects**
-- 🚀 **Axum Web Services** - APIs haute performance
-- 🎯 **CLI Tools** - Outils en ligne de commande
-- 🔗 **Blockchain Experiments** - Smart contracts Solidity
-
-</td>
-<td width="50%">
+**Master dev France**
+TOP 35 en final du master dev france 2025
 
 **🌐 Web Development**
 - ⚡ **SvelteKit Apps** - Applications modernes
