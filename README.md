@@ -1,164 +1,111 @@
-# 👋 Salut ! Je suis Nicolas
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Développeur+Back-end;Passionné+de+technologie;Rust+lover+<3;Escrimeur+à+mes+heures+perdues+⚔️)](https://git.io/typing-svg)
+
+```rust
+// 🦀 INITIALIZING DEVELOPER PROFILE...
+fn main() {
+    let developer = Developer::new("Nicolas Le Bozec");
+    developer.compile_future();
+}
+```
+
+# `cargo run --release` 🦀
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=F74C00&center=true&vCenter=true&width=800&lines=Open+Source+Contributor+%7C+Rust+%26+PHP;Backend+Developer+%40+Maarch;Master+Dev+France+TOP+35+🏆;Building+the+future+with+Rust+🦀)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 À propos de moi
+---
+
+## `> whoami`
 
 ```rust
-struct Developer {
-    name: String,
-    role: String,
-    company: String,
-    location: String,
-    languages: Vec<String>,
-    interests: Vec<String>,
+pub struct Developer {
+    pub name: &'static str,
+    pub role: &'static str,
+    pub mission: Mission,
+    pub stack: Vec<Tech>,
 }
 
 impl Developer {
-    fn new() -> Self {
-        Developer {
-            name: "Nicolas Le Bozec".to_string(),
-            role: "Développeur Back-end".to_string(),
-            company: "Maarch".to_string(),
-            location: "France 🇫🇷".to_string(),
-            languages: vec![
-                "Rust", "Python", "PHP", "TypeScript", "Kotlin"
-            ].iter().map(|s| s.to_string()).collect(),
-            interests: vec![
-                "🎮 Gaming", "⚔️ Escrime", "🌱 Tech for Good", "🦀 Rust"
-            ].iter().map(|s| s.to_string()).collect(),
+    pub fn new() -> Self {
+        Self {
+            name: "Nicolas Le Bozec",
+            role: "Backend Developer @ Maarch",
+            mission: Mission::OpenSource,
+            stack: vec![Tech::Rust, Tech::PHP, Tech::Symfony],
         }
     }
 }
 ```
 
-- 🔭 **Actuellement** : Développeur Back-end Junior chez [**Maarch**](https://maarch.com/maarch-courrier/) 
-- 🌱 **En apprentissage** (car on arrête jamais d'apprendre) : ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust&logoColor=white)
-- 💬 **Me contacter** : [nicolas.lebozec73@gmail.com](mailto:nicolas.lebozec73@gmail.com)
-- 🎯 **Objectif 2026** : Participer à des projets open source Rust & PHP
+**🎯 MISSION 2026** : Devenir contributeur actif sur des projets open source **Rust** 🦀 et **PHP** 🐘
+
+**🏆 Achievement Unlocked** : **TOP 35** - Master Dev France 2025
+
 ---
 
-## 🛠️ Stack Technique
+## `> cat objectives.toml`
+
+```toml
+[goals.2026]
+primary = "Open Source Contributions"
+languages = ["Rust", "PHP"]
+target_repos = ["Tokio", "Actix-Web", "Symfony", "Laravel"]
+
+[achievements]
+competition = "Master Dev France TOP 35"
+education = "Digital Campus - Valedictorian (Top of Class)"
+company = "Maarch - Backend Developer"
+business = "KEBWEB - Micro-entreprise"
+```
+
+---
+
+## `> rustc --version`
 
 <div align="center">
 
-### 💻 Langages de Programmation
+### 🦀 **RUST-POWERED STACK**
 
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=F74C00)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=F74C00)
+![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=F74C00)
 
-### 🚀 Frameworks & Librairies
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000?style=for-the-badge&logo=rust&logoColor=white)
-
-### 🛠️ Outils & Technologies
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
 ---
 
-### 💼 **Projets Professionnels**
+## `> git log --graph --oneline`
 
-| 🏢 Entreprise | 🛠️ Projet | 📋 Description | 🔧 Stack |
-|---------------|------------|-----------------|-----------|
-| **[Maarch](https://maarch.com/maarch-courrier/)** | Système de GED | Solutions de gestion documentaire enterprise | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![Symfony](https://img.shields.io/badge/Symfony-000?style=flat&logo=symfony) |
+<div align="center">
 
-**Master dev France**
-TOP 35 en final du master dev france 2025
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicoooo972&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=F74C00&icon_color=F74C00&text_color=ffffff&ring_color=F74C00" />
 
-**🌐 Web Development**
-- ⚡ **SvelteKit Apps** - Applications modernes
-- 🎨 **Next.js Projects** - Full-stack React
-- 🔄 **NestJS APIs** - Architecture microservices
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoooo972&theme=radical&hide_border=true&background=0d1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
 
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoooo972&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=ffffff&langs_count=6" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nicoooo972&theme=high-contrast&hide_border=true&bg_color=0d1117&color=F74C00&line=F74C00&point=ffffff&area=true&area_color=F74C00" />
 
 </div>
 
 ---
 
-## 📊 Statistiques & Activité GitHub
-
-<div align="center">
-  
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=nicoooo972&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoooo972&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Langages les plus utilisés" />
-
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoooo972&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<img width="390" src="https://github-readme-activity-graph.vercel.app/graph?username=nicoooo972&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🎮 Centre d'Intérêts
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**⚔️ Escrime**
-<br>
-*Art martial français*
-<br>
-Discipline, précision, stratégie
-
-</td>
-<td align="center" width="33%">
-
-**🎮 Gaming**
-<br>
-*Pokémon & RPGs*
-<br>
-Stratégie, créativité, aventure
-
-</td>
-<td align="center" width="33%">
-
-**🌍 Tech for Good**
-<br>
-*Impact social & environnemental*
-<br>
-Innovation, durabilité, société
-
-</td>
-</tr>
-</table>
-
----
-
-## 🤝 Connectons-nous !
+## `> curl -X GET /connect`
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.lebozec73@gmail.com)
-[![Daily.dev](https://img.shields.io/badge/Daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/nico972)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicoooo972)
+[![Email](https://img.shields.io/badge/📧_Email-F74C00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.lebozec73@gmail.com)
+[![Daily.dev](https://img.shields.io/badge/📰_Daily.dev-000000?style=for-the-badge&logo=daily.dev&logoColor=F74C00)](https://app.daily.dev/nico972)
+[![GitHub](https://img.shields.io/badge/🦀_GitHub-000000?style=for-the-badge&logo=github&logoColor=F74C00)](https://github.com/nicoooo972)
 
 </div>
 
@@ -166,10 +113,13 @@ Innovation, durabilité, société
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=nicoooo972&color=58A6FF&style=for-the-badge)
+```rust
+// 🦀 Memory safe. Thread safe. Future safe.
+println!("Compiling dreams into reality... 🚀");
+```
 
-**✨ Codé avec passion et café ☕ par Nicolas ✨**
+![Profile Views](https://komarev.com/ghpvc/?username=nicoooo972&color=F74C00&style=for-the-badge&label=CARGO+DOWNLOADS)
 
-*"Le code, c'est comme l'escrime : chaque ligne doit être précise et avoir un but !"* ⚔️
+**⚡ Crafted with Rust, powered by caffeine ☕ | Nicolas Le Bozec 2026**
 
 </div>
