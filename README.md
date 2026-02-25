@@ -87,11 +87,8 @@ business = "KEBWEB - Micro-entreprise"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicoooo972&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&title_color=F74C00&icon_color=F74C00&text_color=ffffff&ring_color=F74C00" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nicoooo972&theme=radical&hide_border=true&background=0d1117&stroke=F74C00&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoooo972&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F74C00&text_color=ffffff&langs_count=6" />
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=nicoooo972&theme=high-contrast&hide_border=true&bg_color=0d1117&color=F74C00&line=F74C00&point=ffffff&area=true&area_color=F74C00" />
 
