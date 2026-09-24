@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.9006185581677" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="204.9006185581677" y="0" width="127.2271761906011" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="332.12779474876885" y="0" width="50.2122606382624" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="382.3400553870312" y="0" width="35.79747677350314" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.1375321605344" y="0" width="34.400868195493366" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="452.53840035602775" y="0" width="7.461599643972271" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="200.3045713518304" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="200.3045713518304" y="0" width="124.3733921863571" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="324.6779635381875" y="0" width="49.08596867362953" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="373.763932211817" y="0" width="34.99451729843411" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="408.7584495102511" y="0" width="33.62923551191221" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="442.38768502216334" y="0" width="17.612314977836675" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>44.54%</div>
+                                <div>43.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>10.92%</div>
+                                <div>10.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@
                                 Rust
                             </div>
                             <small>
-                                <div>7.48%</div>
+                                <div>7.31%</div>
                             </small>
                         </div>
                     </section>
@@ -73,7 +73,7 @@
                                 Svelte
                             </div>
                             <small>
-                                <div>27.66%</div>
+                                <div>27.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -84,18 +84,18 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>7.78%</div>
+                                <div>7.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#336790" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#A97BFF" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PLpgSQL
+                                Kotlin
                             </div>
                             <small>
-                                <div>1.62%</div>
+                                <div>3.83%</div>
                             </small>
                         </div>
                     </section>
